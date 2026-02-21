@@ -39,3 +39,9 @@
 <h2 align='left'><u><b>License and Copyright</b></u></h2>
 Lisence: MIT Lisence<br>
 &#169; 2021 Akshay Vs
+
+------------------------------------------------
+
+Repositorio de respaldo modificado por:
+
+https://github.com/HexxyO/JuegoFSNumeros
